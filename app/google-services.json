@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691950116692",
+    "project_id": "ekkatechchatapp",
+    "storage_bucket": "ekkatechchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691950116692:android:b1bef1b93a1866446ab2c1",
+        "android_client_info": {
+          "package_name": "com.ekkatech.firebase.chat.activities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691950116692-5khnu0vkfc2b5m598j38tvfr6dl11dej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ekkatech.firebase.chat.activities",
+            "certificate_hash": "bbd26e41bcabf793a800d4f7fc864495336efd46"
+          }
+        },
+        {
+          "client_id": "691950116692-lp0kf82r6ofg4l1joghm5sbgkjqr9ies.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4BJafe3aY4lzwk1nitYbwAS5AmIlWK6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691950116692-lp0kf82r6ofg4l1joghm5sbgkjqr9ies.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

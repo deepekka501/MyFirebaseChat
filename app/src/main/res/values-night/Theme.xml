@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<!--    color Theme-->
+    <color name="colorPrimary">@color/colorBlue</color>
+    <color name="colorPrimaryDark">@color/colorBlue</color>
+    <color name="colorAccent">@color/color_Accent</color>
+
+    <color name="colorSearchbox" tools:ignore="MissingDefaultResource">#3A4655</color>
+
+<!--    text color-->
+    <color name="greyText" tools:ignore="MissingDefaultResource">@color/grey_600</color>
+    <color name="TextColor" tools:ignore="MissingDefaultResource">@color/white</color>
+
+<!--    background-->
+    <color name="bodyColor" tools:ignore="MissingDefaultResource">#121e28</color>
+    <drawable name="chatbackground" tools:ignore="MissingDefaultResource">@drawable/chat_bg2</drawable>
+
+</resources>
